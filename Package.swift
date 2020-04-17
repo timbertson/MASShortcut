@@ -5,9 +5,12 @@ import PackageDescription
 let package = Package(
     name: "MASShortcut",
     products: [
-        .library(name: "Framework", targets: ["Framework"])
+        .library(name: "Framework",
+                 targets: ["Framework"],
+                 path: "Framework")
     ],
     targets: [
-        .target(name: "Framework")
+        .target(name: "Framework",
+                path: "Framework")
     ]
 )
