@@ -1,3 +1,4 @@
+#import <AppKit/AppKit.h>
 #import <Carbon/Carbon.h>
 #import <AppKit/AppKit.h>
 #import "MASKeyMasks.h"

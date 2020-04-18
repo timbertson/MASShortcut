@@ -1,3 +1,4 @@
+#import <AppKit/AppKit.h>
 #import "MASHotKey.h"
 
 FourCharCode const MASHotKeySignature = 'MASS';

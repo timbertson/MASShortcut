@@ -1,3 +1,4 @@
+#import <AppKit/AppKit.h>
 #import "MASHotKey.h"
 
 @interface MASHotKeyTests : XCTestCase

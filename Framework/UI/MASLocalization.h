@@ -1,3 +1,5 @@
+#import <AppKit/AppKit.h>
+
 /**
  Reads a localized string from the framework’s bundle.
 

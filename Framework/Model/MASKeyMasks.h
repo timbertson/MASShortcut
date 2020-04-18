@@ -1,3 +1,4 @@
+#import <AppKit/AppKit.h>
 #import <Availability.h>
 
 // https://github.com/shpakovski/MASShortcut/issues/99

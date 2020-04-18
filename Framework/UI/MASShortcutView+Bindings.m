@@ -1,3 +1,4 @@
+#import <AppKit/AppKit.h>
 #import "MASShortcutView+Bindings.h"
 
 @implementation MASShortcutView (Bindings)
