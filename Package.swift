@@ -15,6 +15,7 @@ let package = Package(
                 "Model/MASShortcutTests.m",
                 "Monitoring/MASHotKeyTests.m",
                 "Monitoring/MASShortcutMonitorTests.m",
+                "User Defaults Storage/MASDictionaryTransformerTests.m",
                 "User Defaults Storage/MASShortcutBinderTests.m"
             ],
             cSettings: [
