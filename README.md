@@ -2,6 +2,8 @@
 
 This is a fork of the famous [MASShortcut library](https://github.com/shpakovski/MASShortcut). I have converted it to a Swift Package so that it can be easily installed via Swift Package Manager (SPM). Most of the credit for this goes to [SDGGiesbrecht](https://forums.swift.org/u/SDGGiesbrecht).
 
+With this library you can easily implement Global Keyboard Shortcuts in your macOS app.
+
 # Demo
 
 ![](https://i.imgur.com/ItmaRh0.gif)
