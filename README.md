@@ -16,6 +16,10 @@ Detailed documentation can be found [here](https://blog.rampatra.com/how-to-add-
 
 Doesn't support localization. It can only support one language for now. This will change once SPM allows to package resource files from Objective-C projects.
 
+# Live Example
+
+This library is being used in my app [Presentify](https://presentify.compzets.com/). You can get it from the [Mac App Store](https://apps.apple.com/app/id1507246666) or [Setapp](https://go.setapp.com/stp285?utm_medium=vendor_program&utm_source=Ram+Patra&utm_content=link) and go to `Preferences > Keyboard` to see how this looks/works.
+
 # Copyright
 
 MASShortcut is licensed under the 2-clause BSD license.
