@@ -1,5 +1,5 @@
 #import "MASKeyMasks.h"
-#import "MASShortcut.h"
+#import "MASShortcutImpl.h"
 #import "MASShortcutValidator.h"
 #import "MASShortcutMonitor.h"
 #import "MASShortcutBinder.h"

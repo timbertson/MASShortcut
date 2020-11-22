@@ -1,6 +1,6 @@
 #import <AppKit/AppKit.h>
 #import "MASDictionaryTransformer.h"
-#import "MASShortcut.h"
+#import "MASShortcutImpl.h"
 
 NSString *const MASDictionaryTransformerName = @"MASDictionaryTransformer";
 
