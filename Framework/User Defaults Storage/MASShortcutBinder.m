@@ -1,6 +1,6 @@
 #import <AppKit/AppKit.h>
 #import "MASShortcutBinder.h"
-#import "MASShortcut.h"
+#import "MASShortcutImpl.h"
 
 @interface MASShortcutBinder ()
 @property(strong) NSMutableDictionary *actions;
