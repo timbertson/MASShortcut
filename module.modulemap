@@ -1,5 +1,5 @@
 framework module MASShortcut {
-  umbrella header "Shortcut.h"
+  umbrella header "MASShortcut/Shortcut.h"
   
   export *
   module * { export * }
